@@ -1,0 +1,8 @@
+Name: Hilary Kansiime
+Registration Number: 2020/HD05/17691U 
+##########RESULTS FROM DATASET2################
+	     precision: 0.4810
+	        recall: 0.8993
+	            F1: 0.6245
+	      accuracy: 0.4648
+################################################
